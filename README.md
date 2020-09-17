@@ -64,4 +64,4 @@ Once the final question is completed, will take the user to the score page and f
 Project created by: Venus Hu 
 
 Github: 
-https://github.com/Venus1001/Code-Quiz.git
+https://github.com/Venus1001/Code-Quiz-.git
