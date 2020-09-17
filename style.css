@@ -1,0 +1,18 @@
+#quizDiv{
+    visibility: hidden;
+    text-align: center;
+    
+}
+
+#nextQuestion{
+    visibility: hidden;
+}
+
+#startQuiz{
+    text-align: center;
+}
+
+#nextQuestion{
+    text-align: center;
+}
+
